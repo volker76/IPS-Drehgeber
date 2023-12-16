@@ -1,0 +1,12 @@
+{
+  "id": "{4B6EB133-FFC9-4842-904A-95D2B80943A1}",
+  "name": "IPS-Drehgeber",
+  "author": "Volker Hänsel",
+  "url": "https://github.com/volker76/IPS-Drehgeber",
+  "compatibility": {
+    "version": "6.0"
+  },
+  "version": "1.0",
+  "build": 0,
+  "date": 0
+}

@@ -1,0 +1,14 @@
+{
+    "id": "{F1DB489B-841B-33EB-1630-06591247051A}",
+    "name": "IPSDimmer",
+    "type": 3,
+    "vendor": "VH",
+    "aliases": [
+        "IPS-Dimmer"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "DIM",
+    "url": ""
+}
