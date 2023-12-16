@@ -1,6 +1,6 @@
-# IPSDimmer
+# IPSDrehgeber
  
 Folgende Module beinhaltet das IPSDimmer Repository:
 
-- __IPSDimmer__ ([Dokumentation](IPSDimmer))  
+- __IPSDrehgeber__ ([Dokumentation](IPSDrehgeber))  
 	Kurze Beschreibung des Moduls.
