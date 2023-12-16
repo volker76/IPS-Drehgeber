@@ -1,14 +1,14 @@
 {
-    "id": "{F1DB489B-841B-33EB-1630-06591247051A}",
-    "name": "IPSDimmer",
+    "id": "{F9DB7836-27E3-455A-AB20-D8848191B24E}",
+    "name": "IPSDrehgeberr",
     "type": 3,
     "vendor": "VH",
     "aliases": [
-        "IPS-Dimmer"
+        "IPS-Drehgeber"
     ],
     "parentRequirements": [],
     "childRequirements": [],
     "implemented": [],
-    "prefix": "DIM",
+    "prefix": "DREH",
     "url": ""
 }
